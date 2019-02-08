@@ -1,3 +1,11 @@
-body {
-  background-color: azure;
+.jumbotron {
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
+
+  background-image: url('https://cdn.pixabay.com/photo/2016/09/04/20/09/mountains-1645078_1280.jpg');
+  height: 60vh;
+  background-size: cover;
 }
